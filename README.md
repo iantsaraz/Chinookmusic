@@ -47,3 +47,4 @@ Album.where(artist: "AC/DC").count
 
 # Combien de chanson durent exactement 158589 millisecondes ?
 Track.where(duration: 158589).count
+# Chinookmusic
